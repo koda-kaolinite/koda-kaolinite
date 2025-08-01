@@ -1,0 +1,32 @@
+name: Generate 3D Contribution Chart
+
+on:
+  schedule:
+    - cron: "0 */8 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate GitHub Profile 3D Contribution Chart
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4.1.1
+
+      - name: Generate 3D contribution chart
+        uses: yoshi389111/github-profile-3d-contrib@1.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITTOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: conf/github-profile-3d-contrib.json
+
+      - name: Push SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output # The branch where the generated SVGs will be stored
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITTOKEN }}
