@@ -1,6 +1,9 @@
 # Pedro Henrique Costa Sinezio
 
-Hi, I'm Pedro Henrique. As a Software Engineer and Full-Stack Developer, I'm passionate about building high-quality, polished software that solves real-world problems. I enjoy working across the entire stack, ensuring that a robust back-end implementation leads to a seamless and intuitive user experience. I'm open to new opportunities, whether for contract-based projects or full-time employment.
+Hi, I'm Pedro Henrique. As a Software Engineer and Full-Stack Developer, I'm passionate about building high-quality,
+polished software that solves real-world problems. I enjoy working across the entire stack, ensuring that a robust
+back-end implementation leads to a seamless and intuitive user experience. I'm open to new opportunities, whether for
+contract-based projects or full-time employment.
 
 
 
@@ -31,11 +34,11 @@ Hi, I'm Pedro Henrique. As a Software Engineer and Full-Stack Developer, I'm pas
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+    <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" />
   </p>
   <h3>Backend</h3>
   <p>
