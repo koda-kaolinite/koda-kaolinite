@@ -73,6 +73,12 @@ contract-based projects or full-time employment.
     <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
     <img src="https://img.shields.io/badge/k6-blue?style=for-the-badge&logo=k6&logoColor=white" />
   </p>
+  <h3>Becoming better at</h3>
+  <p>
+    <img src="https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
+    <img src="https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white" />
+  </p>
 </div>
 
 ---
