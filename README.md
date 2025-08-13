@@ -81,7 +81,7 @@ Hi, I'm Koda. As a Software Engineer and Full-Stack Developer, I'm passionate ab
 
 </details>
 
-<details>
+<details open>
 <summary><strong>🇧🇷 Português</strong></summary>
 
 # Koda Turqui
