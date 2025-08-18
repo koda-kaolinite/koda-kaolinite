@@ -8,10 +8,11 @@ Hi, I'm Koda. As a Software Engineer and Full-Stack Developer, I'm passionate ab
 <div align="center">
 <h2>Let's connect! You can find me on:</h2>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D300?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511985164568)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D300?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511945975898&text=Ol%C3%A1%20Koda!%20%F0%9F%98%81)
 [![ProtonMail](https://img.shields.io/badge/-Proton-%23333?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kaolinite.work@proton.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phcsdev/)
-[![Resume](https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/document/d/1_T-bqhmGFuqlLymXtWKU0vEEHcVvog6z/edit?usp=sharing&ouid=115027580491758364493&rtpof=true&sd=true)
+
+[//]: # ([![Resume]&#40;https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=google-sheets&logoColor=white&#41;]&#40;https://docs.google.com/document/d/1_T-bqhmGFuqlLymXtWKU0vEEHcVvog6z/edit?usp=sharing&ouid=115027580491758364493&rtpof=true&sd=true&#41;)
 </div>
 
 <div align="center">
@@ -91,10 +92,11 @@ Olá, eu sou Koda. Sou Engenheiro de Software e Desenvolvedor Full-Stack, minha 
 <div align="center">
 <h2>Vamos nos conectar! Você pode me encontrar em:</h2>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D300?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511985164568)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D300?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511945975898&text=Ol%C3%A1%20Koda!%20%F0%9F%98%81)
 [![ProtonMail](https://img.shields.io/badge/-Proton-%23333?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kaolinite.work@proton.me)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phcsdev/)
-[![Currículo](https://img.shields.io/badge/Currículo-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/document/d/1_T-bqhmGFuqlLymXtWKU0vEEHcVvog6z/edit?usp=sharing&ouid=115027580491758364493&rtpof=true&sd=true)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodaturqui/)
+
+[//]: # ([![Currículo]&#40;https://img.shields.io/badge/Currículo-34A853?style=for-the-badge&logo=google-sheets&logoColor=white&#41;]&#40;https://docs.google.com/document/d/1_T-bqhmGFuqlLymXtWKU0vEEHcVvog6z/edit?usp=sharing&ouid=115027580491758364493&rtpof=true&sd=true&#41;)
 </div>
 
 <div align="center">
